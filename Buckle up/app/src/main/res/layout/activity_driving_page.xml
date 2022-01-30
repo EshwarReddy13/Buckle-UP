@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrivingPage">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/drive_page"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/BackToMainFromDriving"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="253dp"
+        android:layout_marginTop="650dp"
+        android:alpha="0" />
+
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="110dp"
+        android:text="You must stop when you approach a school bus from either direction"
+        android:id="@+id/rd1"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="150dp"
+        android:text="Green is stop"
+        android:id="@+id/rd2"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="190dp"
+        android:text="Do you go over the speed limit"
+        android:id="@+id/rd3"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="230dp"
+        android:text="At night, you should dim your headlights to low beam whenever you are"
+        android:id="@+id/rd4"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="270dp"
+        android:text="Do you wear a seatbelt"
+        android:id="@+id/rd5"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="310dp"
+        android:text="Do you follow road signs"
+        android:id="@+id/rd6"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="350dp"
+        android:text="You must yield at an intersection where there are no traffic lights"
+        android:id="@+id/rd7"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="390dp"
+        android:text="Do you drink and drive(be honest)"
+        android:id="@+id/rd8"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="430dp"
+        android:text="You should indicate immediately before changing lanes"
+        android:id="@+id/rd9"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="470dp"
+        android:text="Do you rush when you see yellow"
+        android:id="@+id/rd10"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="510dp"
+        android:text="You can pass if there is a solid yellow line in the middle of the road"
+        android:id="@+id/rd11"/>
+    <CheckBox
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="550dp"
+        android:text="You should speak on the phone while driving "
+        android:id="@+id/rd12"/>
+
+    <CheckBox
+        android:id="@+id/rd13"
+        android:layout_width="370dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="590dp"
+        android:text="Can you park in disability parking when it is vacant" />
+
+</RelativeLayout>
