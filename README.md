@@ -16,7 +16,7 @@ Key Features
 
     User-Friendly Interface: The app boasts an intuitive and user-friendly interface, allowing drivers to easily comprehend their driving habits, monitor their progress, and redeem rewards.
 
-How It Works
+# How It Works
 
     Data Collection: The app collects real-time data on the driver's location, speed, acceleration, and deceleration.
 
@@ -28,7 +28,7 @@ How It Works
 
     User Interface: The app's user-friendly interface presents clear visualizations of driving behavior and rewards, aiding users in making informed decisions.
 
-Benefits
+# Benefits
 
     Promotes responsible driving habits through point-based incentivization.
 
@@ -38,17 +38,11 @@ Benefits
 
     Fosters a culture of awareness and improvement among drivers.
 
-Getting Started
+# Getting Started
 
 To experience the benefits of Buckle Up, follow these steps:
 
-    Download: Download the Buckle Up app from the App Store or Google Play Store.
-
-    Install: Install the app on your mobile device.
-
-    Registration: Create an account and register within the app.
-
-    Set Up: Configure app permissions and preferences.
+    Download: Download Android Studio and open the folder. Run the app.
 
     Drive: Let the app track and assess your driving behavior.
 
